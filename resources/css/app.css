@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .error {
+        @apply block text-rose-600 border border-rose-600 rounded-md p-1 my-1;
+    }
+}
