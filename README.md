@@ -53,4 +53,4 @@ Run command `npm run dev`
 Evgenii Orel
 Telegram: @Evgenfalcon
 Email: evgen@nitiweb.net
-Upwork: 
+Linkedin: https://www.linkedin.com/in/evgeniiorel
