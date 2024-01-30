@@ -39,8 +39,6 @@ After that copy .env.example to .env, specify your database parameters.
 
 This script using Queue for deleting files, so you need to run commands:
 ``` 
-php artisan queue:table
-
 php artisan migrate
 ```
 And after that run command:
