@@ -46,11 +46,12 @@ And after that run command:
 php artisan queue:listen
 ```
 
-Run command `npm run dev`
+Run command `npm install`
+
+Then `npm run dev`
 
 ## Author
 
-Evgenii Orel
-Telegram: @Evgenfalcon
-Email: evgen@nitiweb.net
-Linkedin: https://www.linkedin.com/in/evgeniiorel
+- Evgenii Orel
+- Email: evgen@nitiweb.net
+- Linkedin: https://www.linkedin.com/in/evgeniiorel
