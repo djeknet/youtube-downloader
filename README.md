@@ -46,9 +46,11 @@ And after that run command:
 php artisan queue:listen
 ```
 
+Generate unique key `php artisan key:generate`
+
 Run command `npm install`
 
-Then `npm run dev`
+Then `npm run dev` for localhost OR `npm run build` for production 😉
 
 ## Author
 
