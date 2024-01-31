@@ -86,7 +86,7 @@ class YoutubeService
             $data[0],
             $data[1],
             $data[2],
-            $data[3], //mb_convert_encoding($data[3], 'UTF-8', 'windows-1251'),
+            $data[3], //mb_convert_encoding($data[3], 'UTF-8', 'windows-1251'), // for Windows
             $thumb
         );
     }

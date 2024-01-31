@@ -6,12 +6,14 @@ It's my learning project that was created while learning how Livewire works.
 
 ![Screenshot](screen.png)
 
+👀 See the DEMO: http://yt.nitiweb.net/
+
 ## Used packages and extensions
 
-* [YT-DLP](https://github.com/yt-dlp/yt-dlp).
-* [Livewire](https://livewire.laravel.com/docs/installation).
-* [Blade UI Kit](https://blade-ui-kit.com/docs/0.x/installation).
-* [Flowbite](https://flowbite.com/docs/getting-started/quickstart/).
+* [YT-DLP](https://github.com/yt-dlp/yt-dlp)
+* [Livewire](https://livewire.laravel.com/docs/installation)
+* [Blade UI Kit](https://blade-ui-kit.com/docs/0.x/installation)
+* [Flowbite](https://flowbite.com/docs/getting-started/quickstart/)
 
 Also includes jQuery + timepicker.js
 
